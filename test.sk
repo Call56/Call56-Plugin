@@ -1,0 +1,2 @@
+on break:
+    console command "/scoreboard players add %player% {スコアオブジェクト} 1"
